@@ -42,7 +42,7 @@ We will complete this assignment together in class. If you are having problems w
 
 13. When you return to GitHub you will now see your commit. Clicking on the commit you will be able to see the details of what was changed in that commit.
 <br/>![image](https://user-images.githubusercontent.com/102991550/190271359-1ffd6e8b-430f-45d9-b15c-b07df41490fe.png)
-<br/>![image](https://user-images.githubusercontent.com/102991550/190271108-ffea25d9-dc51-47fa-b2b4-b4f1db290d70.png)
+<br/>![image](https://user-images.githubusercontent.com/102991550/190271673-8afc1ef6-5ad9-4ea7-9316-895d08356d14.png)
 <br/>![image](https://user-images.githubusercontent.com/102991550/190271167-2526e52c-eb48-4399-82cd-86a52e5788d8.png)
 
 Congratulations you are done with Lab 1.
